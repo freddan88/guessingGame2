@@ -4,6 +4,6 @@
 Guess a random number between 1 and 100
 
 #### Feautures:
-- The computer will keep track how many times you guess
+- The computer will keep track on how many times you guessed!
 
 ###### This is a refactored version with better coding and more error handling
