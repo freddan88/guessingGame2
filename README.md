@@ -1,5 +1,7 @@
 ## --- guessingGame in C# ---
 
+[Code License: MIT](https://choosealicense.com/licenses/mit/)
+
 #### Console application written in C#...
 Guess a random number between 1 and 100
 
