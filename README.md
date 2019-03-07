@@ -9,5 +9,3 @@ Guess a random number between 1 and 100
 - The computer will keep track on how many times you guessed!
 
 ###### This is a refactored version with better coding and more error handling
-
-<iframe src=".rev.html"></iframe>
